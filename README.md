@@ -9,3 +9,5 @@ when you guesses correct character your chance will not be counted when you give
 
 Hope you enjoy this game. 
 Any modification in this game would be highly appreciated.
+# Changes working Demo
+--latest update---
